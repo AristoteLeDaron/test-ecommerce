@@ -5,6 +5,7 @@ import Offers from '../Components/Offer/Offers'
 import NewCollections from '../Components/NewCollections/NewCollections'
 import NewsLetter from '../Components/NewsLetter/NewsLetter'
 
+
 export const Shop = () => {
   return (
     <div>
@@ -13,6 +14,7 @@ export const Shop = () => {
       <Offers />
       <NewCollections />
       <NewsLetter />
+
     </div>
   )
 }
